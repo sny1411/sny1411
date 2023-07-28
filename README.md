@@ -16,7 +16,7 @@ Right now, I am mostly having fun with the Spigot API to create plugins for Mine
 ![GNU Bash](https://img.shields.io/badge/Bash-AA00FF.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sny1411&theme=dark&hide_border=true) </br>
 [![sny1411's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sny1411&theme=dark&show_icons=true&hide_border=true)](https://github.com/sny1411)
