@@ -19,7 +19,7 @@ Right now, I am mostly having fun with the Spigot API to create plugins for Mine
 # 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sny1411&theme=dark&hide_border=true) </br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sny1411&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![sny1411's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sny1411&theme=dark&show_icons=true&hide_border=true)](https://github.com/sny1411)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sny1411&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
