@@ -13,7 +13,7 @@ Right now, I am mostly having fun with the Spigot API to create plugins for Mine
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5EAE33.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-AF27AA.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-E42A2A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
+![GNU Bash](https://img.shields.io/badge/Bash-AA00FF.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 
 
 # 📊 GitHub Stats
