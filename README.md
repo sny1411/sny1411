@@ -1,8 +1,7 @@
 
 # 💫 About Me:
-I am a second-year computer science student. I am not exactly sure yet which branch of computer science I want to work in, but I enjoy programming, and I find pleasure in it!
-
-Right now, I am mostly having fun with the Spigot API to create plugins for Minecraft and modify the game. I enjoy creating mini-games, utilities, and more!
+I am a third-year computer science student. I’m not exactly sure yet which branch of computer science I want to pursue, but I really enjoy programming and find a lot of pleasure in it!
+ Currently, I’m mainly having fun with the Spigot API to create plugins for Minecraft, where I modify the game and build mini-games, utilities, and more.
 
 # 💻 Tech Stack:
 
@@ -10,16 +9,21 @@ Right now, I am mostly having fun with the Spigot API to create plugins for Mine
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=Python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5EAE33.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-AF27AA.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-E42A2A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Bash-AA00FF.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
-
+![MongoDb](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![nextJs](https://img.shields.io/badge/nextJs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![socket.io](https://img.shields.io/badge/socket.io-000000.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sny1411&theme=dark&hide_border=true) </br>
-[![sny1411's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sny1411&theme=dark&show_icons=true&hide_border=true)](https://github.com/sny1411)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sny1411&theme=tokyonight&hide_border=false) </br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sny1411&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sny1411&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
