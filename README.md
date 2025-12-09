@@ -1,8 +1,3 @@
-
-# 💫 About Me:
-I am a third-year computer science student. I’m not exactly sure yet which branch of computer science I want to pursue, but I really enjoy programming and find a lot of pleasure in it!
- Currently, I’m mainly having fun with the Spigot API to create plugins for Minecraft, where I modify the game and build mini-games, utilities, and more.
-
 # 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)
